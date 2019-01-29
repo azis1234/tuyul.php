@@ -1,0 +1,2 @@
+# tuyul.php
+Auto claim
